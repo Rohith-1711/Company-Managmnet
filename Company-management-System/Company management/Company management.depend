@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1625820261 source:c:\users\asrit\desktop\oops project\company management\main.cpp
+	"mainscreen.h"
+	<iostream>
+	<conio.h>
+
+1625809563 c:\users\asrit\desktop\oops project\company management\employee.h
+
+1625810004 source:c:\users\asrit\desktop\oops project\company management\employee.cpp
+	"Employee.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdio>
+	<iomanip>
+
+1625819649 c:\users\asrit\desktop\oops project\company management\mainscreen.h
+
+1625821062 source:c:\users\asrit\desktop\oops project\company management\mainscreen.cpp
+	<iostream>
+	"Employee.h"
+	"mainscreen.h"
+	"customer.h"
+	"change.h"
+	"orders.h"
+
+1625820930 source:c:\users\asrit\desktop\oops project\company management\customer.cpp
+	"customer.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdio>
+	<iomanip>
+
+1625822168 source:c:\users\asrit\desktop\oops project\company management\orders.cpp
+	"orders.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdio>
+	<iomanip>
+	"customer.h"
+
+1625750384 c:\users\asrit\desktop\oops project\company management\customer.h
+
+1625623903 source:c:\users\asrit\desktop\oops project\company management\changeinemployee.cpp
+	"changeinemployee.h"
+	"Employee.h"
+	<iostream>
+
+1625533181 c:\users\asrit\desktop\oops project\company management\changeinemployee.h
+
+1625639788 source:c:\users\asrit\desktop\oops project\company management\change.cpp
+	"change.h"
+	"Employee.h"
+	<iostream>
+
+1625817425 c:\users\asrit\desktop\oops project\company management\change.h
+	<iostream>
+	<cstdlib>
+
+1625639262 c:\users\asrit\desktop\oops project\company management\entity.h
+
+1625812571 c:\users\asrit\desktop\oops project\company management\orders.h
+	"customer.h"
+
